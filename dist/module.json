@@ -1,9 +1,0 @@
-{
-  "name": "nuxt-simple-sitemap",
-  "compatibility": {
-    "nuxt": "^3.5.0",
-    "bridge": false
-  },
-  "configKey": "sitemap",
-  "version": "2.6.0"
-}
