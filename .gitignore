@@ -16,7 +16,7 @@ node_modules
 .playground/nuxt-runtime
 
 # Generated dirs
-dist
+#dist
 
 # Nuxt
 .nuxt
